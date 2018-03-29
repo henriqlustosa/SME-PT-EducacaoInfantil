@@ -1,0 +1,8 @@
+*.DS_Store
+mapas/
+dados/geosampa/
+*.ipynb_checkpoints*
+*.~*
+*~$*
+*.qgs*
+exports/
